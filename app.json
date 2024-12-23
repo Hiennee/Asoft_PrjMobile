@@ -2,7 +2,9 @@
   "expo": {
     "name": "Mobile_Prj3",
     "slug": "Mobile_Prj3",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "newArchEnabled": true
   },
-  "name": "Mobile_Prj3"
+  "name": "Mobile_Prj3",
+  "newArchEnabled": true
 }
